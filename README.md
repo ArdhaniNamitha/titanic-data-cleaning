@@ -7,13 +7,13 @@ Steps include:
 - Standardizing numerical columns  
 - Visualizing and removing outliers using the IQR method
 
-🛠 Tools & Libraries Used
--Python: Core language for data manipulation
--Pandas: For loading, cleaning, and manipulating data
--NumPy: For numerical operations
--Matplotlib & Seaborn: For data visualizatio
--Scikit-learn (StandardScaler): For feature standardization
--Google Colab: Cloud environment for running the notebook
+🛠 Tools & Libraries Used:
+- Python: Core language for data manipulation
+- Pandas: For loading, cleaning, and manipulating data
+- NumPy: For numerical operations
+- Matplotlib & Seaborn: For data visualizatio
+- Scikit-learn (StandardScaler): For feature standardization
+- Google Colab: Cloud environment for running the notebook
 
 📂 Dataset :
 -Dataset Name: Titanic-Dataset.csv
