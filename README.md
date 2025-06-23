@@ -16,18 +16,18 @@ Steps include:
 - Google Colab: Cloud environment for running the notebook
 
 📂 Dataset :
--Dataset Name: Titanic-Dataset.csv
--Contains details about passengers aboard the Titanic (e.g., age, fare, sex, survival status)
+- Dataset Name: Titanic-Dataset.csv
+- Contains details about passengers aboard the Titanic (e.g., age, fare, sex, survival status)
 
 📥 Input
-Raw Dataset: Titanic-Dataset.csv
-Contains missing values
-Includes categorical & numerical features
-Some features irrelevant for ML
+- Raw Dataset: Titanic-Dataset.csv
+- Contains missing values
+- Includes categorical & numerical features
+- Some features irrelevant for ML
 
 📤 Output
-Cleaned Dataset: cleaned_titanic.csv
-All values numeri
-No missing data
-Scaled features
-Outliers removed
+- Cleaned Dataset: cleaned_titanic.csv
+- All values numeri
+- No missing data
+- Scaled features
+- Outliers removed
