@@ -1,4 +1,4 @@
-# Titanic Data Cleaning
+# Titanic Dataset Cleaning
 
 This project performs data preprocessing on the Titanic dataset.  
 Steps include:
